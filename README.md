@@ -12,13 +12,7 @@
 <img align="left" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
 <br/>
-
 <hr/>
-
 
 <img align="left" width="40%" heith="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardKirakosyan&layout=compact&theme=dark" />
 <img align="left" width="40%" heith="200px" src="https://github-readme-stats.vercel.app/api?username=EdwardKirakosyan&show_icons=true&theme=dark" />
-
-
-
-
