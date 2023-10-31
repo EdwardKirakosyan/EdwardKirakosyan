@@ -6,8 +6,6 @@
 
 <img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=EdwardKirakosyan&show_icons=true&theme=dark" />
 
-<hr/>
-
 <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 
 <a href="https://www.linkedin.com/in/edward-kirakosyan/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
