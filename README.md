@@ -12,8 +12,6 @@
 <img align="left" alt="css3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
-<br/>
-
 <a href="https://www.edwardkirakosyan.com/">
   <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&color=gray" />
 </a>
