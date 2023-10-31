@@ -9,7 +9,7 @@
 
 <a href="https://www.linkedin.com/in/edward-kirakosyan/"><img width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br/>
-<a href="https://www.edwardkirakosyan.com/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&color=gray" /></a>
+<a target="_blank" href="https://www.edwardkirakosyan.com/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&color=gray" /></a>
 
 <img align="left" alt="react" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
