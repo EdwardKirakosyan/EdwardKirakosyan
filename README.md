@@ -4,10 +4,14 @@
 
 <img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardKirakosyan&layout=compact" />
 
-<img align="left" width="120px" height="40px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css" />
 
-<img align="left" width="125px" height="40px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<a href="https://www.linkedin.com/in/edward-kirakosyan/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img align="left" width="155px" height="40px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<a href="https://www.edwardkirakosyan.com/"><img align="left" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
-<img align="left" width="130px" height="40px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
+
+
+
+
