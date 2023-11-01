@@ -1,7 +1,5 @@
 ## `Frontend Developer`
 
-<p>As a self-taught Frontend Developer, I'm proficient in JavaScript, React, CSS, and HTML. Driven by a lifelong love for pushing boundaries, learning, and problem-solving. My goal is to master the art of programming. Constantly expanding skills through online courses, personal projects, challenges, books, videos, and more. Also, I speak multiple languages and my diverse background includes internet marketing, sales, engineering, e-commerce, entrepreneurship, and more.</p>
-
 <hr/>
 
 <img align="left" alt="languages" width="40%" heith="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardKirakosyan&layout=compact&theme=dark" />
