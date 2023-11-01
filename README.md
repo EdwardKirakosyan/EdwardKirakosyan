@@ -1,7 +1,5 @@
 ## `Frontend Developer`
 
-<hr/>
-
 <img align="left" alt="languages" width="40%" heith="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardKirakosyan&layout=compact&theme=dark" />
 
 <img align="left" alt="react" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
