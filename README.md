@@ -1,4 +1,4 @@
-## Frontend Developer
+# Frontend Developer
 My goal is to master the art of programming. Also, I speak multiple languages and my diverse background includes internet marketing, sales, aircraft and maritime mechanics, e-commerce, management, entrepreneurship, and more.
 
 * 🌍  I'm based in Tbilisi, Georgia
