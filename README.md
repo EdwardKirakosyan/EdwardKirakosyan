@@ -1,5 +1,5 @@
 ## Frontend Developer
-My goal is to master the art of programming. Also, I speak multiple languages and my diverse background includes internet marketing, sales, aircraft and maritime mechanics, e-commerce, management, entrepreneurship, and more.
+As a self-taught Frontend Developer, I'm proficient in front-end technologies. Driven by a lifelong love for pushing boundaries, learning, and problem-solving. My goal is to master the art of programming. Also, I speak multiple languages and my diverse background includes internet marketing, sales, aircraft and maritime mechanics, e-commerce, management,  entrepreneurship, and more.
 
 * 🌍  I'm based in Tbilisi, Georgia
 * 🖥️  See my portfolio at [edwardkirakosyan.com](http://www.edwardkirakosyan.com)
