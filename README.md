@@ -4,8 +4,6 @@ As a self-taught Frontend Developer, I'm proficient in front-end technologies. D
 * 🌍  I'm based in Tbilisi, Georgia
 * 🖥️  See my portfolio at [edwardkirakosyan.com](http://www.edwardkirakosyan.com)
 * ✉️  You can contact me at [kirakosyan3010@gmail.com](mailto:kirakosyan3010@gmail.com)
-* 🚀  I'm currently working on [one of my personal projects](http://ek-carrrent-car-rental.netlify.app/)
-* 🧠  I'm currently learning Everything Web Development
 
 ### Skills
 
