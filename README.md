@@ -1,8 +1,9 @@
 ## Frontend Developer
-As a frontend developer, I'm proficient in web technologies. Driven by a lifelong love for pushing boundaries, learning, and problem-solving. My goal is to master the art of programming. Also, I speak multiple languages and my diverse background includes internet marketing, sales, aircraft and maritime mechanics, e-commerce, management, entrepreneurship, and more.
 
 * 🖥️  See my portfolio at [edwardkirakosyan.com](http://www.edwardkirakosyan.com)
 * ✉️  You can contact me at [kirakosyan3010@gmail.com](mailto:kirakosyan3010@gmail.com)
+
+<p align="left"> <a href="https://www.github.com/EdwardKirakosyan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/edward-kirakosyan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="33" height="33" /> </picture> </a></p>
 
 ### Skills
 
@@ -22,8 +23,6 @@ As a frontend developer, I'm proficient in web technologies. Driven by a lifelon
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alighn="left" width="35px" alt="vscode" />
 </div>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/EdwardKirakosyan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/edward-kirakosyan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="33" height="33" /> </picture> </a></p>
+</br>
 
 <a href="https://github.com/EdwardKirakosyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardKirakosyan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
