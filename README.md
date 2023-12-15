@@ -1,9 +1,8 @@
 ## Frontend Developer
 
-* 🖥️  See my portfolio at [edwardkirakosyan.com](http://www.edwardkirakosyan.com)
-* ✉️  You can contact me at [kirakosyan3010@gmail.com](mailto:kirakosyan3010@gmail.com)
-
-<p align="left"> <a href="https://www.github.com/EdwardKirakosyan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/edward-kirakosyan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="33" height="33" /> </picture> </a></p>
+<a href="https://www.edwardkirakosyan.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/edward-kirakosyan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### Skills
 
@@ -25,4 +24,4 @@
 
 </br>
 
-<a href="https://github.com/EdwardKirakosyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardKirakosyan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/EdwardKirakosyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardKirakosyan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" width="280px" alt="Top Languages" /></a>&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="580px"/>
