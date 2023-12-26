@@ -6,8 +6,7 @@
 
 <a href="https://github.com/EdwardKirakosyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardKirakosyan&layout=compact" width="250px" alt="Top Languages" /></a>
 
-### Skills
-
+### Skills:
 <div align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="react" />&nbsp;&nbsp;&nbsp;
