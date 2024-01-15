@@ -1,6 +1,6 @@
 ## Frontend Developer
 
-<a href="https://github.com/EdwardKirakosyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardKirakosyan&layout=compact" width="250px" alt="Top Languages" /></a>
+<a href="https://github.com/EdwardKirakosyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardKirakosyan&layout=compact" width="300px" alt="Top Languages" /></a>
 
 ### Skills:
 <div align="left">
