@@ -1,9 +1,5 @@
 ## Frontend Developer
 
-<a href="https://www.edwardkirakosyan.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/edward-kirakosyan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 <a href="https://github.com/EdwardKirakosyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardKirakosyan&layout=compact" width="250px" alt="Top Languages" /></a>
 
 ### Skills:
