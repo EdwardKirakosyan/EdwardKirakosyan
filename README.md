@@ -1,4 +1,6 @@
 ## Frontend Developer
+Continuously learning and adapting to new technologies, </br>
+I'm committed to staying at the forefront of web development trends and best practices.
 
 <a href="https://github.com/EdwardKirakosyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardKirakosyan&layout=compact" width="300px" alt="Top Languages" /></a>
 
